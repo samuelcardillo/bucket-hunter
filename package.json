@@ -1,0 +1,16 @@
+{
+  "name": "bucket-hunter",
+  "version": "1.0.0",
+  "description": "Amazon AWS Open Bucket Scraper",
+  "main": "bucket-hunter.js",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "request": "^2.60.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amitay Dan & Samuel LESPES CARDILLO",
+  "license": "ISC"
+}
